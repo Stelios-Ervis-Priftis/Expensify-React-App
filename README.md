@@ -1,5 +1,5 @@
 # Indecision-React-App
-    Visit testing app on http://indecision-react-app.surge.sh
+    Visit testing app on (not set yet)
 
 # Install modules
     yarn install
